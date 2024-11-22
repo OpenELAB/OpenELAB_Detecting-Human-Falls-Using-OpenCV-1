@@ -36,21 +36,17 @@
 ![image](https://github.com/user-attachments/assets/e1fd0d58-100b-4a9d-9c0f-8c8b502a46c4)  
 
 ### 编译运行    
-1.先运行测试代码，确保摄像头能够成功使用。  
-2.运行train.py文件，训练数据后保存人体节点为csv文件，用户按下 Esc 键时直接退出并保存结果。  
-3.进行验证，可以上传一段具有完整人体节点的视频或者打开自己的摄像头进行测试。  
+1.先运行测试代码test.py，确保摄像头能够成功使用。  
+2.运行First_train.py文件，训练数据后保存人体节点为1_Fall.csv和2_Normal.csv文件，用户按下 Esc 键时直接退出并保存结果。  
+3.运行second_KNN.py文件，使用KNN模型调配。
+3.进行验证运行Third.py文件，可以上传一段具有完整人体节点的视频或者打开自己的摄像头进行测试。  
 
 ![image](https://github.com/user-attachments/assets/300989ab-8395-4a6d-b718-8fc19c8fdcb0)  
 
-KNN算法识别人体是否跌倒。
-# 提取训练数据
-执行First_Train.py文件，单击‘空格键’分别提取正常姿态，跌倒姿态数据为csv文件，作为训练数据。
-# KNN算法对提取数据进行分类
-执行second_KNN.py文件，进行数据分类。
-# 检测姿态
-执行testing.py文件，演示结果。
 
-最后结果为：
+最后结果为：  
+![img_v3_02gs_c205fc8a-26f5-41d1-b66b-d4dd3a21858g](https://github.com/user-attachments/assets/94578e53-b6e0-4bce-b1ee-22cd2682ee5b)
+
 
 
 
