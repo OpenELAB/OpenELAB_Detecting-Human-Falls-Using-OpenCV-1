@@ -53,7 +53,7 @@ Final Result (includes GIF files)
 
 
 
-## 如何联系维护者或开发者
+## How to Contact the Maintainer or Developer
 __OpenELAB:__   
 [![OpenELAB_logo_resized_150](https://github.com/user-attachments/assets/5d3de375-359c-46a3-96bb-aaa211c6c636)](https://openelab.io)  
 __YouTube:__  
@@ -65,6 +65,6 @@ __FaceBook:__
 __Discord__  
 [![resized_image_150x150](https://github.com/user-attachments/assets/93ecd098-3391-45bb-9d80-b166c197a475)](https://discord.gg/VQspWyck)  
 
-__源码改自于__
-[M5StickCPlus](https://github.com/Sarah-C/M5StickC_Plus_Slot_Machine)
+__Source Code Adapted __
+[KNN-Fall-Detection-main]([https://github.com/Sarah-C/M5StickC_Plus_Slot_Machine](https://github.com/Code-Deer/KNN-Fall-Detection/blob/main/README.md))
 
