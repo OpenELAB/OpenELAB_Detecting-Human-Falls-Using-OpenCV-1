@@ -45,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/300989ab-8395-4a6d-b718-8fc19c8fdcb0)  
 
 
-最后结果为：  
+最后结果为：（含有GIF文件）  
 ![img_v3_02gs_c205fc8a-26f5-41d1-b66b-d4dd3a21858g](https://github.com/user-attachments/assets/94578e53-b6e0-4bce-b1ee-22cd2682ee5b)
 
 
