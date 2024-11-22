@@ -41,6 +41,17 @@
 
 ![image](https://github.com/user-attachments/assets/300989ab-8395-4a6d-b718-8fc19c8fdcb0)  
 
+KNN算法识别人体是否跌倒。
+# 提取训练数据
+执行First_Train.py文件，单击‘空格键’分别提取正常姿态，跌倒姿态数据为csv文件，作为训练数据。
+# KNN算法对提取数据进行分类
+执行second_KNN.py文件，进行数据分类。
+# 检测姿态
+执行testing.py文件，演示结果。
+
+最后结果为：
+
+
 
 
 ## 如何联系维护者或开发者
